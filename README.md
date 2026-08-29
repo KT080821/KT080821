@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Studying: B.Tech at National Forensic Science University (NFSU)
+- 🎓 Studying: B.Tech CSE at National Forensic Science University (NFSU)
 - 🔐 Interested In: Network Security
 - 🐍 Building with: Python
 - 🔭 Currently working on: Python Projects, Cybersecurity Projects
