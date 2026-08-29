@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartikeya Arya</h1> <p align="center"> <em>B.Tech Undergrad @ National Forensic Science University (NFSU) • Network Security & Python</em> </p> <p align="center"> <a href="https://linkedin.com/in/Kartikeya Arya"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<h1 align="center">Hi 👋, I'm Kartikeya Arya</h1> <p align="center"> <em>B.Tech Undergrad @ National Forensic Science University (NFSU) • Network Security & Python</em> </p> <p align="center"> <a href="https://www.linkedin.com/in/kartikeya-arya-38380537b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 🚀 About Me
 🎓 Studying: B.Tech at National Forensic Science University (NFSU)
 🔐 Interested In: Network Security
